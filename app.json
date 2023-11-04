@@ -1,14 +1,14 @@
 {
-    "name": "Genius-Userbot",
-    "logo": "https://te.legra.ph/file/ceee32999a8250a1f7ebb.png",
-    "description": "Genius-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
+    "name": "Mahsoom-Userbot",
+    "logo": "https://telegra.ph/file/ddb347aaa4b263819ba4f.jpg",
+    "description": "Mahsoom-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
     "keywords": [
         "userbot",
         "musicbot",
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/AdityaHalder/Genius-Userbot",
+    "repository": "https://github.com/mahcopration/userbot",
     "stack": "container",
     "env": {
         "API_ID": {
