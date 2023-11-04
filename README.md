@@ -1,7 +1,7 @@
 <h2>Genius-Userbot</h2>
 <p title="Genius-Userbot">Genius-Userbot is a powerful, advanced, multi-featured Telegram userbot.</p>
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/027283ee9defebc3298b8.png"></a></p>
+<p align="center"><a href="https://t.me/adityahalder"><img src="https://telegra.ph/file/ddb347aaa4b263819ba4f.jpg"></a></p>
 
 ![](AdityaHalder/resorce/maintained.svg)
 ![](AdityaHalder/resource/license.svg)
@@ -9,7 +9,7 @@
 <h2>Deployment</h2>
 <p title="Deployment">You can use Genius-Userbot through the cloud application platform Heroku.</p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdityaHalder/Genius-Userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahcopration/userbot)
 
 Or, simply run the following commands in your Vps,
 
