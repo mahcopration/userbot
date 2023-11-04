@@ -9,7 +9,7 @@ from pyrogram import *
 from pyrogram.types import *
 
 
-UPSTREAM_REPO = "https://github.com/AdityaHalder/Genius-Userbot"
+UPSTREAM_REPO = "https://github.com/mahcopration/userbot"
 UPSTREAM_BRANCH = "aditya"
 
 
@@ -59,7 +59,7 @@ async def update_userbot(client, message):
     await message.edit("**🔄 Checking Updates ✨...**")
     update_avail = updater()
     if update_avail:
-        await message.edit("**🥳 New Update Available\nFor Genius-Userbot❗**")
+        await message.edit("**🥳 New Update Available\nFor Mahsoom-Userbot❗**")
         asyncio.sleep(0.5)
         await message.edit("**🔃 Updating ...**")
         os.system("git pull -f && pip3 install -r Installer")
@@ -67,12 +67,12 @@ async def update_userbot(client, message):
         os.system(f"kill -9 {os.getpid()} && python3 -m AdityaHalder")
         return
     else:
-        await message.edit(f"**🥀 Genius Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @AdityaHalder ✨ ...**")
+        await message.edit(f"**🥀 Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @Mahsoommjm ✨ ...**")
 
 __NAME__ = "Update"
 __MENU__ = f"""
 **🥀 Use This Plugin To Update
-Your Genius Userbot.**
+Your Userbot.**
 
 **🇮🇳 Command :**
 `.update` - Update Your Userbot
